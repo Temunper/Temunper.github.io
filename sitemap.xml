@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://temunper.github.io/categories/</loc>
+    <lastmod>2022-02-06T16:16:10+08:00</lastmod>
+  </url><url>
+    <loc>https://temunper.github.io/tags/go/</loc>
+    <lastmod>2022-02-06T16:16:10+08:00</lastmod>
+  </url><url>
+    <loc>https://temunper.github.io/categories/go/</loc>
+    <lastmod>2022-02-06T16:16:10+08:00</lastmod>
+  </url><url>
+    <loc>https://temunper.github.io/2022/02/hugo%E5%AD%A6%E4%B9%A0%E6%97%A5%E5%BF%97/</loc>
+    <lastmod>2022-02-06T16:16:10+08:00</lastmod>
+  </url><url>
+    <loc>https://temunper.github.io/posts/</loc>
+    <lastmod>2022-02-06T16:16:10+08:00</lastmod>
+  </url><url>
+    <loc>https://temunper.github.io/tags/</loc>
+    <lastmod>2022-02-06T16:16:10+08:00</lastmod>
+  </url><url>
+    <loc>https://temunper.github.io/</loc>
+    <lastmod>2022-02-06T16:16:10+08:00</lastmod>
+  </url><url>
+    <loc>https://temunper.github.io/tags/%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2022-02-06T16:16:10+08:00</lastmod>
+  </url><url>
+    <loc>https://temunper.github.io/categories/%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2022-02-06T16:16:10+08:00</lastmod>
+  </url><url>
+    <loc>https://temunper.github.io/archives/</loc>
+  </url>
+</urlset>
